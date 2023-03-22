@@ -8,6 +8,7 @@ import Hero2 from 'components/Hero/Hero2'
 import Hero3 from 'components/Hero/Hero3'
 import Hero4 from 'components/Hero/Hero4'
 import Hero5 from 'components/Hero/Hero5'
+import Hero6 from 'components/Hero/Hero6'
 import Navbar from 'components/Navbars/Navbar'
 import Navbar1 from 'components/Navbars/Navbar1'
 import Navbar2 from 'components/Navbars/Navbar2'
@@ -38,7 +39,7 @@ export default function Home() {
 
       {/* signin page */}
       {/* <Hero5 /> */}
-      
+      <Hero6 />
 
 
       {/* FOOTER SECTION */}

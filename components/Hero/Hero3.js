@@ -21,7 +21,7 @@ const Hero3 = () => {
               <br className="hidden md:block" />
               jumps over a{' '}
               <span className="relative inline-block px-2">
-                <div className="absolute inset-0 transform -skew-x-12 bg-teal-accent-400" />
+                <div className="absolute inset-0 transform -skew-x-12 bg-teal-400" />
                 <span className="relative text-teal-900">lazy dog</span>
               </span>
             </h2>
@@ -39,7 +39,7 @@ const Hero3 = () => {
               />
               <a
                 href="/"
-                className="inline-flex items-center justify-center w-full h-12 px-6 font-semibold tracking-wide text-teal-900 transition duration-200 rounded shadow-md md:w-auto hover:text-deep-purple-900 bg-teal-accent-400 hover:bg-teal-accent-700 focus:shadow-outline focus:outline-none"
+                className="inline-flex items-center justify-center w-full h-12 px-6 font-semibold tracking-wide text-teal-900 transition duration-200 rounded shadow-md md:w-auto hover:text-deep-purple-900 bg-teal-400 hover:bg-teal-700 focus:shadow-outline focus:outline-none"
               >
                 Subscribe
               </a>
@@ -51,7 +51,7 @@ const Hero3 = () => {
             <a
               href="/"
               aria-label="Scroll down"
-              className="flex items-center justify-center w-10 h-10 mx-auto text-white duration-300 transform border border-gray-400 rounded-full hover:text-teal-accent-400 hover:border-teal-accent-400 hover:shadow hover:scale-110"
+              className="flex items-center justify-center w-10 h-10 mx-auto text-white duration-300 transform border border-gray-400 rounded-full hover:text-teal-400 hover:border-teal-accent-400 hover:shadow hover:scale-110"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
