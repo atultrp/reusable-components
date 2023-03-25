@@ -21,7 +21,7 @@ export default function Home() {
   return (
     <>
 
-      {/* NAVBAR SECTION  */}
+      {/* *******NAVBAR SECTION*******  */}
 
       {/* <Navbar /> */}
       {/* <Navbar1 /> */}
@@ -31,7 +31,7 @@ export default function Home() {
       {/* <Navbar5 /> */}
 
 
-      {/* HERO SECTION */}
+      {/* *******HERO SECTION******* */}
 
       {/* <Hero1 /> */}
       {/* <Hero2 /> */}
@@ -45,7 +45,7 @@ export default function Home() {
       {/* <Hero7 /> */}
 
 
-      {/* FOOTER SECTION */}
+      {/* *******FOOTER SECTION******* */}
 
       {/* <Footer1 /> */}
       {/* <Footer2 /> */}
