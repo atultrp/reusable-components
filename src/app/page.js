@@ -42,7 +42,7 @@ export default function Home() {
       {/* <Hero5 /> */}
 
       {/* <Hero6 /> */}
-      <Hero7 />
+      {/* <Hero7 /> */}
 
 
       {/* FOOTER SECTION */}
