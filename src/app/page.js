@@ -1,4 +1,5 @@
 import Footer1 from 'components/Footers/Footer1'
+import Footer2 from 'components/Footers/Footer2'
 import Navbar from 'components/Navbars/Navbar'
 import Navbar1 from 'components/Navbars/Navbar1'
 import Navbar2 from 'components/Navbars/Navbar2'
@@ -21,8 +22,9 @@ export default function Home() {
 
 
       {/* FOOTER SECTION */}
-      
+
       {/* <Footer1 /> */}
+      {/* <Footer2 /> */}
     </>
   )
 }
