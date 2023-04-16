@@ -2,6 +2,7 @@ import Footer1 from 'components/Footers/Footer1'
 import Footer2 from 'components/Footers/Footer2'
 import Footer3 from 'components/Footers/Footer3'
 import Footer4 from 'components/Footers/Footer4'
+import Footer5 from 'components/Footers/Footer5'
 import Navbar from 'components/Navbars/Navbar'
 import Navbar1 from 'components/Navbars/Navbar1'
 import Navbar2 from 'components/Navbars/Navbar2'
@@ -29,6 +30,7 @@ export default function Home() {
       {/* <Footer2 /> */}
       {/* <Footer3 /> */}
       {/* <Footer4 /> */}
+      <Footer5 />
     </>
   )
 }
