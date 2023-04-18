@@ -30,7 +30,7 @@ export default function Home() {
       {/* <Footer2 /> */}
       {/* <Footer3 /> */}
       {/* <Footer4 /> */}
-      <Footer5 />
+      {/* <Footer5 /> */}
     </>
   )
 }
