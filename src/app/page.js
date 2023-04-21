@@ -5,6 +5,7 @@ import Footer4 from 'components/Footers/Footer4'
 import Footer5 from 'components/Footers/Footer5'
 import Hero1 from 'components/Hero/Hero1'
 import Hero2 from 'components/Hero/Hero2'
+import Hero3 from 'components/Hero/Hero3'
 import Navbar from 'components/Navbars/Navbar'
 import Navbar1 from 'components/Navbars/Navbar1'
 import Navbar2 from 'components/Navbars/Navbar2'
@@ -30,6 +31,7 @@ export default function Home() {
 
       {/* <Hero1 /> */}
       {/* <Hero2 /> */}
+      <Hero3 />
 
 
       {/* FOOTER SECTION */}
