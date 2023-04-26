@@ -1,9 +1,10 @@
+import Navbar1 from 'components/Navbars/Navbar1'
 import React from 'react'
 
 const page = () => {
   return (
     <div>
-      This is a test page.
+      <Navbar1 />
     </div>
   )
 }
