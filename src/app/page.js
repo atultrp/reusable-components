@@ -1,9 +1,13 @@
 import Navbar1 from 'components/Navbars/Navbar1'
+import Navbar2 from 'components/Navbars/Navbar2'
+import Navbar3 from 'components/Navbars/Navbar3'
 
 export default function Home() {
   return (
     <>
-      <Navbar1 />
+      {/* <Navbar1 />
+      <Navbar2 /> */}
+      <Navbar3 />
     </>
   )
 }
