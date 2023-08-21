@@ -1,4 +1,7 @@
 export default function Head() {
+  // git add  . 
+  // git commit --date="01/06/2023" -m "heyalife"
+
   return (
     <>
       <title>Create Next App</title>
