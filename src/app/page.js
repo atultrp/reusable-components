@@ -1,3 +1,4 @@
+// All the components are imported here and rendered below
 import Footer1 from 'components/Footers/Footer1'
 import Footer2 from 'components/Footers/Footer2'
 import Footer3 from 'components/Footers/Footer3'
@@ -16,6 +17,8 @@ import Navbar2 from 'components/Navbars/Navbar2'
 import Navbar3 from 'components/Navbars/Navbar3'
 import Navbar4 from 'components/Navbars/Navbar4'
 import Navbar5 from 'components/Navbars/Navbar5'
+
+// All shared components 
 
 export default function Home() {
   return (
