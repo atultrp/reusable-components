@@ -23,35 +23,38 @@ export default function Home() {
 
       {/* *******NAVBAR SECTION*******  */}
 
-      {/* <Navbar /> */}
-      {/* <Navbar1 /> */}
-      {/* <Navbar2 /> */}
-      {/* <Navbar3 /> */}
-      {/* <Navbar4 /> */}
-      {/* <Navbar5 /> */}
+      <Navbar />
+      <Navbar1 />
+      <Navbar2 />
+      <Navbar3 />
+      <Navbar4 />
+      <Navbar5 />
 
 
       {/* *******HERO SECTION******* */}
 
-      {/* <Hero1 /> */}
-      {/* <Hero2 /> */}
-      {/* <Hero3 /> */}
-      {/* <Hero4 /> */}
+      <Hero1 />
+      <Hero2 />
+      <Hero3 />
+      <Hero4 />
 
       {/* signin page */}
-      {/* <Hero5 /> */}
+      <Hero5 />
 
-      {/* <Hero6 /> */}
-      {/* <Hero7 /> */}
+      <Hero6 />
+      <Hero7 />
+
+
+      {/*  */}
 
 
       {/* *******FOOTER SECTION******* */}
 
-      {/* <Footer1 /> */}
-      {/* <Footer2 /> */}
-      {/* <Footer3 /> */}
-      {/* <Footer4 /> */}
-      {/* <Footer5 /> */}
+      <Footer1 />
+      <Footer2 />
+      <Footer3 />
+      <Footer4 />
+      <Footer5 />
 
     </>
   )
